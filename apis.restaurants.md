@@ -17,7 +17,7 @@ The API-endpoint is [**http://www.i-upb.de/api/v1/restaurants**](http://www.i-up
 
 So, after getting a list of available restaurants, you might want to get the **menu data** for a particular place to eat. Remember the name of the restaurant and call [**http://www.i-upb.de/api/v1/menus/RESTAURANT_NAME** ?date=OPTIONAL_DATE](http://www.i-upb.de/api/v1/menus/Mensa.json)
 
-    GET http://www.i-upb.de/api/v1/restaurants.json
+    GET http://www.i-upb.de/api/v1/menus/Mensa.json
     -> 
     [
 	  {
