@@ -49,7 +49,8 @@ This data is gathered from an XML feed of the Studentenwerk plus the data is pub
 
 Checkout it out [live](http://www.i-upb.de/restaurants) ([jQuery code](https://github.com/yippie-io/iUPB/blob/master/app/assets/javascripts/restaurants.js.coffee)).
 
-This API does not support JSONP.
+![JSONP enabled](images/jsonp-ok.png)   
+This API supports JSONP by supplying a `callback` parameter, like in `http://www.i-upb.de/api/v1/menus/Mensa?callback=myAwesomeCallback`.
 
 Finally, we'd like to point you to another free web app targeting the UPB restaurants called ['Mobile Mensa'](http://zeugs.die-fachschaft.de/mobilemensa/). It is operated by the [Fachschaft Mathematik/Informatik](https://fsmi.uni-paderborn.de).
 

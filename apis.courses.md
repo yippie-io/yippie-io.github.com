@@ -62,7 +62,8 @@ As the data is public (and you will only get the course data that is public, i. 
 
 Checkout it out [live](http://www.i-upb.de/courses).
 
-This API does not support JSONP.
+![JSONP enabled](images/jsonp-ok.png)   
+This API supports JSONP by supplying a `callback` parameter, like in `http://www.i-upb.de/api/v1/course/COURSE_ID?callback=myAwesomeCallback`.
 
 Please cache the course detail data – it propably will change rarely during a semester.
 
