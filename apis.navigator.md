@@ -21,6 +21,6 @@ As this data is gathered from public databases of the University of Paderborn an
 Checkout it out [live](http://www.i-upb.de/pages/navigator) ([jQuery code](https://github.com/yippie-io/iUPB/blob/master/app/assets/javascripts/pages_navigator.js.coffee)). You might also want to checkout the [internals of this API app](https://github.com/yippie-io/iupb_navigator).
 
 ![JSONP enabled](images/jsonp-ok.png)   
-This API supports JSONP, find about how at the documentation linked at the top.
+This API supports JSONP, find out how at the documentation linked at the top.
 
 [← API overview](/apis.html)
