@@ -11,7 +11,6 @@ We currently run the following [JSON](http://simple.wikipedia.org/wiki/JSON) API
 
 * [iUPB Navigator API](/apis.navigator.html) 
 * [iUPB Restaurants/Mensa API](/apis.restaurants.html) 
-* [iUPB Public Transportation API](/apis.transportation.html)
 * [iUPB Weatherstation API](/apis.weather.html)
 * [iUPB Courses API](/apis.courses.html)
 * [iUPB Timetable iCal Feed](/apis.timetable.html) - not quite an API
@@ -30,7 +29,7 @@ All APIs are read only and thus you only need `GET` requests. This also means yo
 
 HTTP Cache Headers
 ------------------
-All of our APIs send correct http headers to indicate when to refresh the info received (cache control public, expires, ...). E. g. information from the restaurant is stale after a couple of days vs. information about public transportation is stale after some minutes (depending on the station and how many entries are returned).
+All of our APIs send correct http headers to indicate when to refresh the info received (cache control public, expires, ...). E. g. information from the restaurant is stale after a couple of days.
 Some APIs might also return an ETag.
 
 Read more about cache headers at [this blog post](http://betterexplained.com/articles/how-to-optimize-your-site-with-http-caching/).
