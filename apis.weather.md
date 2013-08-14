@@ -7,6 +7,8 @@ title: Weather Station - APIs
 ==================
 The Weather station API returns current information from the own [weather station of the University of Paderborn](http://wetter.uni-paderborn.de). The data is directly read from their website.
 
+![Logo UPB Wetterstation](http://wetter.upb.de/images/wetterstation.png)
+
 Usage
 =====
   
