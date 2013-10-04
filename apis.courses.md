@@ -3,7 +3,7 @@ layout: page
 title: PAUL Courses and Course search - APIs
 ---
 
-[iUPB Courses](http://www.i-upb.de/restaurants) API
+[iUPB Courses](http://www.i-upb.de/courses) API
 ==================
 The Courses API allows you to query [PAUL](http://paul.uni-paderborn.de) (the lecture management system of the University of Paderborn) and read basic information about the lectures and modules of the current semester.
 
