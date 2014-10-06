@@ -11,6 +11,7 @@ We currently run the following [JSON](http://simple.wikipedia.org/wiki/JSON) API
 
 * [iUPB Navigator API](/apis.navigator.html) 
 * [iUPB Restaurants/Mensa API](/apis.restaurants.html) 
+* [iUPB Transportation API](/apis.transportation.html)
 * [iUPB Weatherstation API](/apis.weather.html)
 * [iUPB Courses API](/apis.courses.html)
 * [iUPB Timetable iCal Feed](/apis.timetable.html) - not quite an API
